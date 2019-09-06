@@ -1,0 +1,105 @@
+html body{
+    margin: 0;
+    border: 0;
+    padding: 0 0 0 0px;
+    background-color: #aaaa88
+}
+.top{
+    max-width: 80%;
+    margin: 0 auto;
+}
+.top-1{
+    background-color: #e0e0c4;
+    font: italic bold 24px serif;
+    padding: 10px;
+    text-align: center;
+    color: #3b3b3b;
+    border-top: 4px solid #3b3b3b;
+}
+.mid{
+    overflow: hidden;
+    max-width: 80%;
+    margin: 0px auto;
+}
+.mid-1{
+    background-color: #3b3b3b;
+    color: whitesmoke;
+    min-width: 30%;
+    max-width: 30%;
+    border-top: 4px solid #4b4d8a;
+    float: left;
+    padding-bottom: 500em;
+    margin-bottom: -500em;
+    text-align: center;
+}
+.mid-1 img{
+    border-radius: 40%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.mid-1 p{
+    font-size: 0.8em;
+    font-style: italic;
+}
+.mid-2 p {
+    margin: 0;
+}
+.mid-2{
+    background-color: #363636;
+    color: whitesmoke;
+    min-width: 70%;
+    max-width: 70%;
+    border-top: 4px solid #8a4b4b;
+    float: left;
+    padding-bottom: 500em;
+    margin-bottom: -500em;
+}
+.biodata{
+    padding: 20px;
+    font: 24px monospace;
+}
+.bot{
+    max-width: 80%;
+    margin: 0px auto;
+}
+.bot-desc{
+    background-color:#3b3b3b;
+    color: whitesmoke;
+    min-width: 80%;
+    padding: 14px;
+    border-top: 4px solid #8a4b4b;
+    text-align: justify;
+    font: 16px monospace;
+}
+.footer{
+    max-width: 80%;
+    margin: 0px auto;
+    background-color: #363636;
+    color: whitesmoke;
+    border-top: 4px solid #4b4d8a;
+    border-bottom: 4px solid #5a5a5a;
+    text-align: center;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 14px;
+}
+.mid-text{
+    padding: 20px;
+}
+.text-1{
+    font: 22px monospace;
+}
+.text-2{
+    font: 16px monospace;
+}
+.mid-socmed{
+    text-align: center;
+    font: 2em monospace;
+}
+.mid-links{
+    padding: 10px;
+    invert { filter: invert(100%); }
+}
+.mid-links a{
+    text-decoration: none;
+}
